@@ -15,14 +15,15 @@
         "Strong and beautiful, just like souls.",
         "Discover the world of souls.",
         "One goal, one passion - souls.",
-        "Promise her anything, but giver her souls.",
+        "Promise her anything, but give her souls.",
         "Grab life by the souls.",
         "The passionate pursuit of souls.",
         "What would you do for a soul?",
         "Happiness is soul-shaped.",
         "You can't stop souls.",
-        "You don't want souls as your enemy.",
-        "Make the world a better place... with souls."
+        "Make the world a better place... with souls.",
+        "Vote souls for president.",
+        "Our souls are the souls that will pierce the heavens!"
     ];
     const tagline = taglines[Math.floor(Math.random()*taglines.length)];
 </script>
@@ -39,6 +40,7 @@
             <div class="flex pl-10 xl:text-xl">
                 <a href="https://discord.com/invite/WMnhjUge"><i class="mx-2 fab fa-discord text-white hover:text-gray-300"></i></a>
                 <a href="https://twitter.com/SoulsDAO"><i class="mx-2 fab fa-twitter text-white hover:text-gray-300"></i></a>
+                <a href="https://github.com/SoulsDAO"><i class="mx-2 fab fa-github text-white hover:text-gray-300"></i></a>
             </div>
         </div>
         <!--Right Col-->

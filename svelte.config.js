@@ -6,11 +6,7 @@ const config = {
     kit: {
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#svelte',
-		adapter: adapter({
-			env: {
-				port: 7331
-			}
-		})
+		adapter: adapter()
 	},
 
     preprocess: [preprocess({

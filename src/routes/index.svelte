@@ -23,7 +23,10 @@
         "You can't stop souls.",
         "Make the world a better place... with souls.",
         "Vote souls for president.",
-        "Our souls are the souls that will pierce the heavens!"
+        "Our souls are the souls that will pierce the heavens!",
+        "Just DAO it!",
+        "SLURP EM ALL!",
+        "I know you got souls."
     ];
     const tagline = taglines[Math.floor(Math.random()*taglines.length)];
 </script>
@@ -38,9 +41,9 @@
             </div>
             <h2 class="xl:mt-6 m-4 pl-4 xl:text-xl font-medium text-white">{tagline}</h2>
             <div class="flex pl-10 xl:text-xl">
-                <a href="https://discord.com/invite/WMnhjUge"><i class="mx-2 fab fa-discord text-white hover:text-gray-300"></i></a>
-                <a href="https://twitter.com/SoulsDAO"><i class="mx-2 fab fa-twitter text-white hover:text-gray-300"></i></a>
-                <a href="https://github.com/SoulsDAO"><i class="mx-2 fab fa-github text-white hover:text-gray-300"></i></a>
+                <a href="https://discord.com/invite/WMnhjUge" target="_blank"><i class="mx-2 fab fa-discord text-white hover:text-gray-300"></i></a>
+                <a href="https://twitter.com/SoulsDAO" target="_blank"><i class="mx-2 fab fa-twitter text-white hover:text-gray-300"></i></a>
+                <a href="https://github.com/SoulsDAO" target="_blank"><i class="mx-2 fab fa-github text-white hover:text-gray-300"></i></a>
             </div>
         </div>
         <!--Right Col-->
